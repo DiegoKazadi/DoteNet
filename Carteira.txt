@@ -1,0 +1,8 @@
+using System.Collections.Generic;
+
+public class Carteira
+{
+   public static  List<Acao> colecaoDeacoes = new List<Acao>();
+     
+}
+
