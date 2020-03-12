@@ -8,7 +8,7 @@ namespace CadastrarBolsasDeValores
         
     {
         public string codigo { get; private set;}
-        public int quantidade { get; private set; }
+        public int quantidade { get; private set;}
 
         public Acao(string codigo, int quantidade)
         {

@@ -8,19 +8,20 @@ namespace CadastrarBolsasDeValores
     public class Carteira
                 
     {
-        public int quantidade { get; private set; }
+        public int codigo { get; private set; }
+        public int contador { get; private set;}
         public List<Acao> acoes;
 
-
-        public Carteira(int quantidade)
+        public Carteira(int codigo)
         {
-            this.quantidade = quantidade;
+            this.codigo = codigo;
             acoes = new List<Acao>();
         }
 
         public void adicionarAcoes(Acao acao)
         {
             this.acoes.Add(acao);
+            this.contador + 1;
         }
 
         public List<Acao> acoesRegistradas()
@@ -29,7 +30,7 @@ namespace CadastrarBolsasDeValores
 
             foreach (var id in acoes)
             {
-                Acao acao = BolsasDeValores.acoes.Where(p => p.acao == acao).FirstOrDefault();
+                Acao acao = BolsasDeValores.acoes.Where(p => p.codigo == codigo).FirstOrDefault();
                 if (acao != null) acoesRegistradas.Add(acao);
             }
 
@@ -37,7 +38,7 @@ namespace CadastrarBolsasDeValores
         }
                 public override string ToString()
         {
-            return $"QUANTIDADE: {this.quantidade}, AÇÔES: {this.acoes}";
+            return $"CODIGO: {this.codigo}, AÇÔES: {this.acoes}, QUANTIDADE DE AÇÔES: {this.contador} ";
         }
 
     }

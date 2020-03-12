@@ -54,15 +54,15 @@ namespace CadastrarBolsasDeValores
                     case 2:
                           {
                           //2 Pesquisar Acao 
-                          PesquisarAcao();
+                          PesquisarPorAcao();
 
                           }
                           break;
 
                      case 3:
                           {
-                         //3 Listar Acao
-                         PesquisarAcao();
+                        //3 Listar carteira
+                        ListarCarteira();
 
                           }
                           break;
@@ -70,7 +70,7 @@ namespace CadastrarBolsasDeValores
                     }
                 }
 
-        private static void PesquisarAcao(Carteira carteira)
+        private static void PesquisarPorAcao(Acao acao)
         {
             Console.WriteLine("Pesquisar por Ação");
             Console.Write("Digite o codigo do Ação: ");
@@ -92,24 +92,37 @@ namespace CadastrarBolsasDeValores
 
 
         }
+        private static void cadastrarCarteira()
+        {
+            Console.WriteLine("Cadastro de Carteira");
+            Console.WriteLine("Digite o nome da Carteira: ");
+
+            string nome = Console.ReadLine();
+            int codigo = BolsasDeValores.carteiras.Count + 1;
+
+            BolsasDeValores.carteiras.Add(new Carteira(codigo));
+
+        }
+
         private static void cadastrarAcao()
         {
             Console.WriteLine("Cadastrar Ação");
             Console.Write("Digite Codigo: ");
+
             string codigo = Console.ReadLine();
 
             Console.Write("Digite a quantidade: ");
             int quantidade = Console.Read();
-            
+
 
             BolsasDeValores.acoes.Add(new Acao(codigo, quantidade));
         }
-                
+
         public static void Menu()
         {
              Console.Clear();
              Console.WriteLine("*** Cadastro Bolsa De Ações ***");
-
+            Console.Write(" ");
 
              Console.WriteLine("1. Cadastrar Acoes");
              Console.WriteLine("2. Pesquisar uma Ação");
