@@ -1,0 +1,69 @@
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\bin\Debug\netcoreapp2.2\AppLivros.deps.json
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\bin\Debug\netcoreapp2.2\AppLivros.runtimeconfig.json
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\bin\Debug\netcoreapp2.2\AppLivros.runtimeconfig.dev.json
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\bin\Debug\netcoreapp2.2\AppLivros.dll
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\bin\Debug\netcoreapp2.2\AppLivros.pdb
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\bin\Debug\netcoreapp2.2\AppLivros.Views.dll
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\bin\Debug\netcoreapp2.2\AppLivros.Views.pdb
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.csproj.CoreCompileInputs.cache
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.RazorAssemblyInfo.cache
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.RazorAssemblyInfo.cs
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.AssemblyInfoInputs.cache
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.AssemblyInfo.cs
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.TagHelpers.input.cache
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.TagHelpers.output.cache
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.RazorCoreGenerate.cache
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.RazorTargetAssemblyInfo.cache
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.RazorTargetAssemblyInfo.cs
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.Views.pdb
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.dll
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.pdb
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.csproj.CopyComplete
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.csprojAssemblyReference.cache
+C:\Users\Genilson\source\repos\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\Livro\Cadastrar.g.cshtml.cs
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\bin\Debug\netcoreapp2.2\AppLivros.deps.json
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\bin\Debug\netcoreapp2.2\AppLivros.runtimeconfig.json
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\bin\Debug\netcoreapp2.2\AppLivros.runtimeconfig.dev.json
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\bin\Debug\netcoreapp2.2\AppLivros.dll
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\bin\Debug\netcoreapp2.2\AppLivros.pdb
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\bin\Debug\netcoreapp2.2\AppLivros.Views.dll
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\bin\Debug\netcoreapp2.2\AppLivros.Views.pdb
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.csprojAssemblyReference.cache
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.csproj.CoreCompileInputs.cache
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.RazorAssemblyInfo.cache
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.RazorAssemblyInfo.cs
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.AssemblyInfoInputs.cache
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.AssemblyInfo.cs
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.TagHelpers.input.cache
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.TagHelpers.output.cache
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.RazorCoreGenerate.cache
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\Livro\Cadastrar.g.cshtml.cs
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.RazorTargetAssemblyInfo.cache
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.RazorTargetAssemblyInfo.cs
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.Views.pdb
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.dll
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.pdb
+D:\Programming\Unifacisa\dotnet-unifacisa\dotnet-unifacisa\2020.1\AppLivros\AppLivros\obj\Debug\netcoreapp2.2\AppLivros.csproj.CopyComplete
+C:\Users\diego\OneDrive\Documentos\dotnet unifacisa\2020.1\AppPacientes\AppPacientes\obj\Debug\netcoreapp2.2\AppPacientes.dll
+C:\Users\diego\OneDrive\Documentos\dotnet unifacisa\2020.1\AppPacientes\AppPacientes\obj\Debug\netcoreapp2.2\AppPacientes.pdb
+D:\Semestre 2020.1\DotNetNew\AppPacientes\AppPacientes\obj\Debug\netcoreapp2.2\AppPacientes.csprojAssemblyReference.cache
+D:\Semestre 2020.1\DotNetNew\AppPacientes\AppPacientes\obj\Debug\netcoreapp2.2\AppPacientes.RazorAssemblyInfo.cache
+D:\Semestre 2020.1\DotNetNew\AppPacientes\AppPacientes\obj\Debug\netcoreapp2.2\AppPacientes.RazorAssemblyInfo.cs
+D:\Semestre 2020.1\DotNetNew\AppPacientes\AppPacientes\obj\Debug\netcoreapp2.2\AppPacientes.AssemblyInfoInputs.cache
+D:\Semestre 2020.1\DotNetNew\AppPacientes\AppPacientes\obj\Debug\netcoreapp2.2\AppPacientes.AssemblyInfo.cs
+D:\Semestre 2020.1\DotNetNew\AppPacientes\AppPacientes\obj\Debug\netcoreapp2.2\AppPacientes.dll
+D:\Semestre 2020.1\DotNetNew\AppPacientes\AppPacientes\obj\Debug\netcoreapp2.2\AppPacientes.pdb
