@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Semestre 2020.1\\DotNetNew\\AppPacientes\\AppPacientes\\AppPacientes.csproj": {}
+    "D:\\Semestre 2020.1\\DotNetNew\\DoteNet\\AppPacientes\\AppPacientes\\AppPacientes.csproj": {}
   },
   "projects": {
-    "D:\\Semestre 2020.1\\DotNetNew\\AppPacientes\\AppPacientes\\AppPacientes.csproj": {
+    "D:\\Semestre 2020.1\\DotNetNew\\DoteNet\\AppPacientes\\AppPacientes\\AppPacientes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Semestre 2020.1\\DotNetNew\\AppPacientes\\AppPacientes\\AppPacientes.csproj",
+        "projectUniqueName": "D:\\Semestre 2020.1\\DotNetNew\\DoteNet\\AppPacientes\\AppPacientes\\AppPacientes.csproj",
         "projectName": "AppPacientes",
-        "projectPath": "D:\\Semestre 2020.1\\DotNetNew\\AppPacientes\\AppPacientes\\AppPacientes.csproj",
+        "projectPath": "D:\\Semestre 2020.1\\DotNetNew\\DoteNet\\AppPacientes\\AppPacientes\\AppPacientes.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "D:\\Semestre 2020.1\\DotNetNew\\AppPacientes\\AppPacientes\\obj\\",
+        "outputPath": "D:\\Semestre 2020.1\\DotNetNew\\DoteNet\\AppPacientes\\AppPacientes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,7 +75,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

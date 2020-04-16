@@ -10,7 +10,7 @@ namespace AppPacientes.Dados
     {
         private static List<Paciente> pacientes;
 
-        private static List<Procedimento> procediementos;
+        private static List<Procedimento> procedimentos;
 
         private static BancoDeDados instance;
 

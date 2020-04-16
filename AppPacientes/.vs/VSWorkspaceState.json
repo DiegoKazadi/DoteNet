@@ -2,9 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\AppPacientes",
-    "\\AppPacientes\\wwwroot",
-    "\\AppPacientes\\wwwroot\\lib\\jquery"
+    "\\AppPacientes\\bin",
+    "\\AppPacientes\\Controllers",
+    "\\AppPacientes\\Dados",
+    "\\AppPacientes\\Models",
+    "\\AppPacientes\\Views",
+    "\\AppPacientes\\Views\\Home",
+    "\\AppPacientes\\Views\\Paciente",
+    "\\AppPacientes\\wwwroot"
   ],
-  "SelectedNode": "\\AppPacientes\\obj",
+  "SelectedNode": "\\AppPacientes.sln",
   "PreviewInSolutionExplorer": false
 }
