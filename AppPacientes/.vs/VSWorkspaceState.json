@@ -2,15 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\AppPacientes",
-    "\\AppPacientes\\bin",
-    "\\AppPacientes\\Controllers",
-    "\\AppPacientes\\Dados",
-    "\\AppPacientes\\Models",
     "\\AppPacientes\\Views",
-    "\\AppPacientes\\Views\\Home",
     "\\AppPacientes\\Views\\Paciente",
-    "\\AppPacientes\\wwwroot"
+    "\\AppPacientes\\Views\\Procedimento"
   ],
-  "SelectedNode": "\\AppPacientes\\Models\\ErrorViewModel.cs",
   "PreviewInSolutionExplorer": false
 }
