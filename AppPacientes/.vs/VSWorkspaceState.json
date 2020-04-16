@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\AppPacientes",
+    "\\AppPacientes\\Controllers",
     "\\AppPacientes\\Views",
-    "\\AppPacientes\\Views\\Paciente",
-    "\\AppPacientes\\Views\\Procedimento"
+    "\\AppPacientes\\Views\\Home",
+    "\\AppPacientes\\Views\\Shared"
   ],
+  "SelectedNode": "\\AppPacientes\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }

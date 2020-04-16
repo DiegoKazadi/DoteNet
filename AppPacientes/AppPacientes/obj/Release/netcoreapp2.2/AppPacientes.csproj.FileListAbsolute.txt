@@ -32,3 +32,4 @@ D:\Semestre 2020.1\DotNetNew\DoteNet\AppPacientes\AppPacientes\obj\Release\netco
 D:\Semestre 2020.1\DotNetNew\DoteNet\AppPacientes\AppPacientes\obj\Release\netcoreapp2.2\AppPacientes.pdb
 D:\Semestre 2020.1\DotNetNew\DoteNet\AppPacientes\AppPacientes\obj\Release\netcoreapp2.2\AppPacientes.genruntimeconfig.cache
 D:\Semestre 2020.1\DotNetNew\DoteNet\AppPacientes\AppPacientes\obj\Release\netcoreapp2.2\AppPacientes.csproj.CopyComplete
+D:\Semestre 2020.1\DotNetNew\DoteNet\AppPacientes\AppPacientes\obj\Release\netcoreapp2.2\AppPacientes.csprojAssemblyReference.cache
