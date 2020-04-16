@@ -11,6 +11,6 @@
     "\\AppPacientes\\Views\\Paciente",
     "\\AppPacientes\\wwwroot"
   ],
-  "SelectedNode": "\\AppPacientes.sln",
+  "SelectedNode": "\\AppPacientes\\Models\\ErrorViewModel.cs",
   "PreviewInSolutionExplorer": false
 }
