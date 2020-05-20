@@ -7,6 +7,6 @@
     "\\AppPacientes\\Views\\Home",
     "\\AppPacientes\\Views\\Shared"
   ],
-  "SelectedNode": "\\AppPacientes\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\AppPacientes\\Models",
   "PreviewInSolutionExplorer": false
 }
