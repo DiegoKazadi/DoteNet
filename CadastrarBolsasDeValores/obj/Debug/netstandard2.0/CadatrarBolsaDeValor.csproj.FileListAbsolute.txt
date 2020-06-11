@@ -1,0 +1,18 @@
+C:\Users\LTI06\source\repos\CadatrarBolsaDeValor\bin\Debug\netstandard2.0\CadatrarBolsaDeValor.deps.json
+C:\Users\LTI06\source\repos\CadatrarBolsaDeValor\bin\Debug\netstandard2.0\CadatrarBolsaDeValor.dll
+C:\Users\LTI06\source\repos\CadatrarBolsaDeValor\bin\Debug\netstandard2.0\CadatrarBolsaDeValor.pdb
+C:\Users\LTI06\source\repos\CadatrarBolsaDeValor\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.csprojAssemblyReference.cache
+C:\Users\LTI06\source\repos\CadatrarBolsaDeValor\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.AssemblyInfoInputs.cache
+C:\Users\LTI06\source\repos\CadatrarBolsaDeValor\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.AssemblyInfo.cs
+C:\Users\LTI06\source\repos\CadatrarBolsaDeValor\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.dll
+C:\Users\LTI06\source\repos\CadatrarBolsaDeValor\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.pdb
+E:\Semestre 2020.1\Dot Net\cadatrarBolsaDeValor\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.csprojAssemblyReference.cache
+E:\Semestre 2020.1\Dot Net\cadatrarBolsaDeValor\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.AssemblyInfoInputs.cache
+E:\Semestre 2020.1\Dot Net\cadatrarBolsaDeValor\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.AssemblyInfo.cs
+E:\Semestre 2020.1\Dot Net\cadatrarBolsaDeValor\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.dll
+E:\Semestre 2020.1\Dot Net\cadatrarBolsaDeValor\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.pdb
+E:\Semestre 2020.1\Dot Net\CadastrarBolsasDeValores\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.csprojAssemblyReference.cache
+E:\Semestre 2020.1\Dot Net\CadastrarBolsasDeValores\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.AssemblyInfoInputs.cache
+E:\Semestre 2020.1\Dot Net\CadastrarBolsasDeValores\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.AssemblyInfo.cs
+E:\Semestre 2020.1\Dot Net\CadastrarBolsasDeValores\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.dll
+E:\Semestre 2020.1\Dot Net\CadastrarBolsasDeValores\obj\Debug\netstandard2.0\CadatrarBolsaDeValor.pdb
