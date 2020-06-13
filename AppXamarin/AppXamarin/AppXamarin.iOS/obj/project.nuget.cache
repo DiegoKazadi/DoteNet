@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZwHt6o0Rz8BC0Tm8JRhqhwISSWukK1WDkhFCXOGrJDkMq+whw5cnyM4cJD/u/teT6j2DFsEVom0n0I2IQsv3UA==",
+  "success": true,
+  "projectFilePath": "D:\\Semestre 2020.1\\DoteNet\\AppXamarin\\AppXamarin\\AppXamarin.iOS\\AppXamarin.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

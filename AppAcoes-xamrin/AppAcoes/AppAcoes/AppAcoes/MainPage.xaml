@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppAcoes.MainPage">
+
+    <StackLayout>
+        <Image Source="carteiraAcoes.jpg"
+               HorizontalOptions="Center">
+        </Image>
+        <Entry x:Name="nomeAcao" Placeholder="Nome da ação"></Entry>
+        <Entry x:Name="codigoAcao" Placeholder="Codigo da ação"></Entry>
+        <Entry x:Name="precoAcao" Placeholder="Preço atual R$"></Entry>
+        <Entry x:Name="quantidadeAcoes " Placeholder="Quantidade"></Entry>
+        <Button x:Name="CadastrarAcao" Text="CadastrarAcao" Clicked="btnSave_Clicked"></Button>
+        <ListView x:Name="listAcoes" ItemSelected="listAcoes_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Label Text="{Binding NewProperty}"></Label>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>
